@@ -56,6 +56,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "flutter_reorderable_list",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_reorderable_list-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-01T10:15:59.187072Z",
+  "generated": "2023-09-03T13:48:57.013330Z",
   "generator": "pub",
   "generatorVersion": "3.1.0"
 }
